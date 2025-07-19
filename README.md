@@ -6,7 +6,7 @@ This is a compact fixed filter bank using the same frequencies as the lower 10 b
 
 ## Schematic and PCBs
 
-The [kicad](Kicad) directory contains the schematic and PCB layout as a KiCad 6 project.
+The [kicad](KiCAD) directory contains the schematic and PCB layout as a KiCad 6 project.
 
 *Please note this design does not include reverse polarity protection, and keyed headers don't fit within the width - please be careful to make sure that your power cable's polarity is correct!*
 
