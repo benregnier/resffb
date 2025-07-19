@@ -1,4 +1,4 @@
-23393222258769350
+23405438106187146
 AudioJacks
 Jack_3.5mm_Cliff_FCR1281_Horizontal
 
@@ -55852,6 +55852,27 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+E-Switch_100
+SW_100DP1T1B1M2QEH
+
+
+0
+6
+6
+E-Switch_100
+SW_100SP1T1B4M2QE
+
+
+0
+3
+3
+FS57003PLT2B2M2QE
+SW_FS57003PLT2B2M2QE
+
+
+0
+9
+9
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -63735,6 +63756,13 @@ Switch
 3
 3
 Library
+ADP0204
+ADP0204-3
+Switch
+0
+4
+4
+Library
 Amphenol_ACJS-MHOM
 
 
@@ -63755,6 +63783,13 @@ Capacitor Polarised
 0
 2
 2
+Library
+CUI_SJ-63083A
+
+
+0
+3
+3
 Library
 DIP-24_W15.24mm
 24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
@@ -63784,6 +63819,13 @@ MusicThingModular-9MM_SNAP-IN_POT
 5
 5
 Library
+PJ301M12
+
+
+0
+3
+3
+Library
 PN61729-S_130
 USB connector with shield
 
@@ -63797,6 +63839,13 @@ POWER_16
 0
 16
 16
+Library
+SOP65P640X145-8N
+NJM12903V-TE1
+Integrated Circuit
+0
+8
+8
 Library
 alpha_9mm_horiz
 
